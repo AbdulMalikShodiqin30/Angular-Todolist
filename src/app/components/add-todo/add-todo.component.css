@@ -1,0 +1,22 @@
+.form {
+  display: flex;
+  margin-bottom: 40px;
+}
+
+.form input[type="text"] {
+  flex: 10;
+  padding: 20px;
+  margin-left: 100px;
+  margin-top: 40px;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+.form input[type="submit"] {
+  flex: 2;
+  margin-right: 100px;
+  margin-left: 10px;
+  margin-top: 40px;
+  font-size: 20px;
+  border-radius: 10px;
+}
